@@ -1,7 +1,7 @@
 ### 自用接口：
 http://dyjldq.3322.org:9111/https://raw.githubusercontent.com/dyjldq/shiyan/refs/heads/main/app.json
 ### Panda Groove（pg）
-http://dyjldq.3322.org:9111/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/jsm.json
+http://dyjldq.3322.org:9111/https://raw.githubusercontent.com/dyjldq/shiyan/refs/heads/main/pg/jsm.json
 
 ### 多线路（影视app支持多线路，tvbox自测）
 http://dyjldq.3322.org:9111/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tvbox.json
